@@ -10,21 +10,21 @@
             android:id="@+id/rdRed"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="RED" />
+            android:text="MERAH" />
 
         <RadioButton
             android:id="@+id/rdBlue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/rdRed"
-            android:text="BLUE" />
+            android:text="BIRU" />
 
         <RadioButton
             android:id="@+id/rdGreen"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/rdBlue"
-            android:text="GREEN" />
+            android:text="HIJAU" />
     </RadioGroup>
 
     <Button
@@ -33,5 +33,5 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/rdGroup"
         android:layout_centerInParent="true"
-        android:text="Change Background Color" />
+        android:text="@string/change_background_color" />
 </RelativeLayout>

@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">SQLite Provider</string>
-    <string name="action_settings">Change Background Color</string>
+    <string name="app_name">KHRISNA_1202154145_MODUL5</string>
+    <string name="action_settings">Ganti Warna Background</string>
+    <string name="change_background_color">Ganti Warna Background</string>
 </resources>
